@@ -4,10 +4,10 @@
     {
       "name": "MELPOIRE",
       "sources": [
-        "https://github.com/randybrokeboi/reddit-place-Melpoire/raw/main/Melpoire-r-pixel.png"
+        "https://github.com/randybrokeboi/reddit-place-Melpoire/raw/main/melpoire3.png"
       ],
-      "x": 3,
-      "y": -1
+      "x": 200,
+      "y": 67
     }
   ],
   "whitelist": [],
