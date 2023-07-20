@@ -1,0 +1,15 @@
+{
+  "contact": "BrokeBoi",
+  "templates": [
+    {
+      "name": "MELPOIRE",
+      "sources": [
+        "https://github.com/randybrokeboi/reddit-place-Melpoire/raw/main/Melpoire-r-pixel.png"
+      ],
+      "x": 268,
+      "y": 936
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
